@@ -25,17 +25,17 @@ export const projects = [
     image: '/images/todo.png',
     tags: ['React', 'WebRTC'],
     source: 'https://mrparkerssontodolist.netlify.app',
-    visit: 'https://mrparkerssontodolist.netlify.app',
+    visit: 'https://github.com/mrparkersson/Webpack-To-Do-List',
     id: 2,
   },
   {
     title: 'Music NFT',
     description:
       'This is an NFT frontend developed for a music application where users are able to choose their favorite artists and stake against them. ',
-    image: '/images/music.png',
+    image: '/images/music.jpeg',
     tags: ['React', 'SCSS'],
     source: 'https://musiswap.netlify.app',
-    visit: 'https://musiswap.netlify.app',
+    visit: 'https://github.com/mrparkersson/MusiSwap',
     id: 3,
   },
   {

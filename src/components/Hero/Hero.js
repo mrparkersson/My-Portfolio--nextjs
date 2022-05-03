@@ -22,9 +22,7 @@ const Hero = () => (
         technologies and contribute to the growth of your firm.
       </SectionText>
       <Button
-        onClick={() =>
-          (window.location = 'https://mail.google.com/mail/u/0/#inbox')
-        }
+        onClick={() => (window.location = 'mailto:amoparkerprince78@gmail.com')}
       >
         Learn More
       </Button>
