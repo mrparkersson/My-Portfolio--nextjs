@@ -17,6 +17,7 @@ import {
 const Technologies = () => (
   <Section id="tech">
     <SectionDivider />
+    <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with both small and large firms, and I've built full-stack
@@ -27,7 +28,8 @@ const Technologies = () => (
         <DiReact size="3rem" />
         <ListContainer>Front-end</ListContainer>
         <ListParagraph>
-          Experience with <br /> React.js, HTML/CSS, Styled Components, Scss
+          Experience with <br /> React.js, HTML/CSS, Styled Components, Scss,
+          TypeScript
         </ListParagraph>
       </ListItem>
       <ListItem>
